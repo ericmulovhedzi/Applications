@@ -6,7 +6,12 @@ You get to organize your URLs and group them as well as order them in a manner y
 
 Steps on how to specify xml menu file:
 ===
-Click on OVH SystemTray icon
-then Go to "Preferences..." menu
-Select "XML Path" tab on OVH SystemTray Preference window
-Lastly, add XML path and press save then re-start OVH SystemTray afresh
+1. Click on OVH SystemTray icon
+2. then Go to "Preferences..." menu
+3. Select "XML Path" tab on OVH SystemTray Preference window
+4. Lastly, add XML path and press save then re-start OVH SystemTray afresh
+
+Download Link
+===
+http://ovhfoundation.org/?p=ovh-system-tray
+
