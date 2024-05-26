@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<items>
+	<item>
+		<name>menu1</name>
+		<label>Mi</label>
+		<link>www.discoveryc.co.za</link>
+	</item>
+	<item>
+		<name>line</name>
+		<label>1</label>
+		<link> </link>
+	</item>
+	<item>
+		<name>ptsovh</name>
+		<label>SA Services Admin</label>
+		<link>www.propertoes.co.za</link>
+	</item>
+	<item>
+		<name>adsovh</name>
+		<label>SMS OVH</label>
+		<link>http://cdbm.co.za</link>
+	</item>
+	<item>
+		<name>adsovh</name>
+		<label>Pnet</label>
+		<link>www.pnet.co.za</link>
+	</item>
+	<item>
+		<name>line</name>
+		<label>5</label>
+		<link> </link>
+	</item>
+	<item>
+		<name>adsovh</name>
+		<label>JONIT</label>
+		<link>www.pnet.co.za</link>
+	</item>
+</items>
