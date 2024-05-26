@@ -8,6 +8,12 @@ It provides a low code designer for integrating service components that make up 
 
 Spider Black, as a software development corporation, have been developing enterprise software for more than 25 years.
 
-**Updated on**
+How to use
+===
+The visual basics code for different functions is within the Microsoft Access Database file ".accdb".
+
+One needs to run it on a windows computer or laptop that has Microsof Office package that has Microsoft Access database within the package in order to run it.
+
+**Updated last**
 ===
 05 Sep 2022, version: 1.0
