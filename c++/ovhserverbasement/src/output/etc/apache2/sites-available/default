@@ -1,0 +1,32 @@
+
+# ------ domain.co.za Settings - OVH Server Basement Version 2.0 
+
+<VirtualHost IP=196.99.99.9:80>
+        ServerName domain.co.za
+        ServerAlias www.domain.co.za
+        ServerAdmin webmaster@domain.co.za
+        DocumentRoot /Users/ericmulovhedzi/research/c++/ovhserverbasement/output/var/www/domain.co.za/public_html/
+
+        <Directory /Users/ericmulovhedzi/research/c++/ovhserverbasement/output/var/www/domain.co.za/public_html/>
+                Options Indexes FollowSymLinks MultiViews +Includes
+                AllowOverride None
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>
+
+# ------ muga.co.za Settings - OVH Server Basement Version 2.0 
+
+<VirtualHost IP=196.55.34.5:80>
+        ServerName muga.co.za
+        ServerAlias www.muga.co.za
+        ServerAdmin webmaster@muga.co.za
+        DocumentRoot /Users/ericmulovhedzi/research/c++/ovhserverbasement/output/var/www/muga.co.za/public_html/
+
+        <Directory /Users/ericmulovhedzi/research/c++/ovhserverbasement/output/var/www/muga.co.za/public_html/>
+                Options Indexes FollowSymLinks MultiViews +Includes
+                AllowOverride None
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>

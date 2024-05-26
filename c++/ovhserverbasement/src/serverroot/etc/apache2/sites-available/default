@@ -1,0 +1,48 @@
+
+# ------ sabfleet.co.za Settings - OVH Server Basement Version 2.0 
+
+<VirtualHost IP=199.255.255.255:80>
+        ServerName sabfleet.co.za
+        ServerAlias www.sabfleet.co.za
+        ServerAdmin webmaster@sabfleet.co.za
+        DocumentRoot /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/sabfleet.co.za/public_html/
+
+        <Directory /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/sabfleet.co.za/public_html/>
+                Options Indexes FollowSymLinks MultiViews +Includes
+                AllowOverride None
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>
+
+# ------ muga.co.za Settings - OVH Server Basement Version 2.0 
+
+<VirtualHost IP=199.255.255.255:80>
+        ServerName muga.co.za
+        ServerAlias www.muga.co.za
+        ServerAdmin webmaster@muga.co.za
+        DocumentRoot /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/muga.co.za/public_html/
+
+        <Directory /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/muga.co.za/public_html/>
+                Options Indexes FollowSymLinks MultiViews +Includes
+                AllowOverride None
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>
+
+# ------ ovhserverbasement.co.za Settings - OVH Server Basement Version 2.0 
+
+<VirtualHost IP=199.255.255.255:80>
+        ServerName ovhserverbasement.co.za
+        ServerAlias www.ovhserverbasement.co.za
+        ServerAdmin webmaster@ovhserverbasement.co.za
+        DocumentRoot /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/ovhserverbasement.co.za/public_html/
+
+        <Directory /Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot/var/www/ovhserverbasement.co.za/public_html/>
+                Options Indexes FollowSymLinks MultiViews +Includes
+                AllowOverride None
+                Order allow,deny
+                Allow from all
+        </Directory>
+</VirtualHost>

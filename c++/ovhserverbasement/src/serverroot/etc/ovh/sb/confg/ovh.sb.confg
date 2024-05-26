@@ -1,0 +1,45 @@
+
+# OVH Server Basement Version 2.0 Configuration settings 
+# http://ovhserverbasement.co.za
+
+# Copyright (C) 2014, OVH Server Basement Version 2.0
+# Released under the MIT, BSD, and GPL Licenses.
+
+# Author: OVH Studio
+
+# Tel: +27 11 071 1218
+# Email: info@ovhstudio.co.za
+# Website: www.ovhstudio.co.za
+
+ Location: South Africa, Johannesburg
+
+# Date (Local): Thu May 15 13:15:59 2014
+
+# Date (UTC): Thu May 15 13:15:59 2014
+
+
+# Base Path (Defalut is the begining of your Ubuntu Server ("./") OR
+# ("/home/root/testing") for your Ubuntu server root folder in-case you woul like to try it before using it OR
+# ("/Users/username/testing/") for your home computer testing.
+PATH=/Users/ericmulovhedzi/research/c++/ovhserverbasement/serverroot
+
+IP=199.255.255.255
+PORT=80
+
+# Server Administrator details NB: ADMIN[EMAIL] for cases like Auto-emmail your domain Service Provider (SP) to register
+# your domain. The email to SP will be CC"d and returned to this address.
+# 
+# This email will also be placed on the Virtual Host's [ServerAdmin] field.
+
+ADMIN[COMPANY:NAME]=OVH
+ADMIN[COMPANY:DESCRIPTION]=an Open Source servicer administration utility tool
+ADMIN[NAME]=Muga
+ADMIN[EMAIL]=muga.makatu@ovhstudio.co.za
+ADMIN[COMPANY:WEBSITE]=www.ovhserverbasement.co.za
+
+# SERVICE-PROVIDER (SP) details.
+
+DOMAIN[SP:NAME]=IS - Internet Solutions
+DOMAIN[SP:DESCRIPTION]=a leading African Internet Service Provider
+DOMAIN[SP:EMAIL]=support[at]serviceprovider.co.za
+DOMAIN[SP:WEBSITE]=www.serviceprovider.co.za
