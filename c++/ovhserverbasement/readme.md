@@ -23,6 +23,6 @@ OVH Server Basement does the following:
 
 Version
 =======
-2018 - v2.0.2
-2017 - v2.0
-2016 - v1.0
+- 2018 - v2.0.2
+- 2017 - v2.0
+- 2016 - v1.0
