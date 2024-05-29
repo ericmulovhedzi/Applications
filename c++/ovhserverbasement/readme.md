@@ -7,8 +7,10 @@ OVH Server Basement simply helps you configure your webserver (i.e. Apache) virt
 
 These usually are series of steps under-taken right after operating system installation (in this case Ubuntu), Obtaining of a public IP Address ususally static then Webserver & Database.
 
-OVH Server Basement does the following:
+![My logo](v20-main-menu.png)
 
+OVH Server Basement does the following:
+--
 1. Setup Apache Virtual Hosts by appending newly created domains records into your default /etc/apache2/sites-available/ file.
 2. Create the chosen domain name folder inside the server '/var/www' folder on a physical drive
     i.e. './www/yourdomainname/' & '/var/www/yourdomainname/html/'
