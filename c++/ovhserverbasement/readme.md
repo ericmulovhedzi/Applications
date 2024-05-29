@@ -25,7 +25,7 @@ OVH Server Basement does the following:
 
 Configuration:
 --
-![My logo](v20-main-confi.png)
+![My logo](v20-menu-confi.png)
 
 Version
 =======
