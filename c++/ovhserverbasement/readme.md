@@ -23,6 +23,10 @@ OVH Server Basement does the following:
     i.e. '/var/home/username/bacup/yourdomainname/'
 7. Add this into the cronjob so it can be backed up every night at 12h00
 
+Configuration:
+--
+![My logo](v20-main-confi.png)
+
 Version
 =======
 - 2018 - v2.0.2
