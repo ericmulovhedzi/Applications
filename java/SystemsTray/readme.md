@@ -11,6 +11,13 @@ Steps on how to specify xml menu file:
 3. Select "XML Path" tab on OVH SystemTray Preference window
 4. Lastly, add XML path and press save then re-start OVH SystemTray afresh
 
+![My logo](ovh-system-tray-xml-node.png)
+
+Output
+===
+
+![My logo](ovh-system-tray.png)
+
 Download Link
 ===
 http://ovhfoundation.org/?p=ovh-system-tray
