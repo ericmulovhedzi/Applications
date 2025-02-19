@@ -4,4 +4,4 @@
 
 Build using native PHP and MySQL without any frameworks or plugins.
 
-![RoomRaccoon Booking Monitoring System](screenshot_42).png)
+![RoomRaccoon Booking Monitoring System](screenshot_42.png)
